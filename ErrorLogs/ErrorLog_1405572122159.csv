@@ -1,0 +1,5 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\tm_1014167_relese, 2014-07-17 13:42:02.158
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation

@@ -1,0 +1,8 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\sketch____, 2014-07-16 11:06:07.538
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingError,{(| ;},Syntax error on token "("^ ; expected
+ParsingError,{)| ;},Syntax error on token ")"^ ; expected
+ParsingError,{,| ;},Syntax error on token "^"^ ; expected
+UndefinedMethod,{sketch____.sketch____| dead_updown| },The method dead_updown() is undefined for the type sketch____

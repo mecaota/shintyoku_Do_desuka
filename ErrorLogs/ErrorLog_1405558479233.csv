@@ -1,0 +1,15 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\tm_1014167, 2014-07-17 09:54:39.233
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorInsertTokenAfter,{&| Expression},Syntax error on token "&"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingErrorInsertToComplete,{]| Expression},Syntax error^ insert "]" to complete Expression
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+InvalidOperator,{&&| boolean, int},The operator && is undefined for the argument type(s) boolean^ int
+TypeMismatch,{java.lang.String[]| int},Type mismatch: cannot convert from String[] to int
+UnresolvedVariable,{da},da cannot be resolved to a variable
+UnresolvedVariable,{daa},daa cannot be resolved to a variable
+UndefinedField,{le},le cannot be resolved or is not a field

@@ -1,0 +1,36 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\sketch____, 2014-07-16 11:15:41.806
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+NonStaticFieldFromStaticInvocation,{d},Cannot make a static reference to the non-static field d
+NonStaticFieldFromStaticInvocation,{m},Cannot make a static reference to the non-static field m
+NonStaticFieldFromStaticInvocation,{y},Cannot make a static reference to the non-static field y
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorInsertTokenAfter,{4| [},Syntax error on token "4"^ [ expected after this token
+ParsingError,{;| ,},Syntax error on token ";"^ ^ expected
+ParsingErrorDeleteToken,{;},Syntax error on token ";"^ delete this token
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingErrorInsertTokenAfter,{]| [},Syntax error on token "]"^ [ expected after this token
+ParsingErrorDeleteToken,{l},Syntax error on token "l"^ delete this token
+ParsingErrorInvalidToken,{stat| Modifiers},Syntax error on token "stat"^ invalid Modifiers
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{]| ArrayAccess},Syntax error^ insert "]" to complete ArrayAccess
+ParsingErrorInsertToComplete,{]| Expression},Syntax error^ insert "]" to complete Expression
+UndefinedMethod,{sketch____.sketch____| Ge| int},The method Ge(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| Get| int},The method Get(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| GetDa| int},The method GetDa(int) is undefined for the type sketch____
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int)
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int)
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int, int[][]},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int[][])
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int[]},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int[])
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int[][]},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int[][])
+UndefinedMethod,{sketch____.sketch____| g| int},The method g(int) is undefined for the type sketch____
+ParameterMismatch,{processing.core.PApplet| get| | int},The method get() in the type PApplet is not applicable for the arguments (int)
+UnresolvedVariable,{c},c cannot be resolved to a variable
+UnresolvedVariable,{getd},getd cannot be resolved to a variable
+UnresolvedVariable,{gety},gety cannot be resolved to a variable
+UnresolvedVariable,{gey},gey cannot be resolved to a variable
+UnresolvedVariable,{gm},gm cannot be resolved to a variable

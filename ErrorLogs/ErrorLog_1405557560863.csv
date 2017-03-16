@@ -1,0 +1,25 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\tm_1014167, 2014-07-17 09:39:20.863
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorInsertTokenAfter,{[| Expression},Syntax error on token "["^ Expression expected after this token
+ParsingErrorDeleteToken,{]},Syntax error on token "]"^ delete this token
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{}| Block},Syntax error^ insert "}" to complete Block
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+TypeMismatch,{int[]| int},Type mismatch: cannot convert from int[] to int
+TypeMismatch,{int[]| int[][]},Type mismatch: cannot convert from int[] to int[][]
+UnterminatedComment,{},Unexpected end of comment
+UnresolvedVariable,{data_sav},data_sav cannot be resolved to a variable
+UnresolvedVariable,{line},line cannot be resolved to a variable
+UndefinedType,{line.leng},line.leng cannot be resolved to a type
+UndefinedType,{line.length},line.length cannot be resolved to a type
+UnresolvedVariable,{ln},ln cannot be resolved to a variable
+UnresolvedVariable,{v},v cannot be resolved to a variable

@@ -1,0 +1,30 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\tm_1014167, 2014-07-17 10:04:09.109
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorInsertTokenAfter,{&| Expression},Syntax error on token "&"^ Expression expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingErrorInsertToComplete,{]| Expression},Syntax error^ insert "]" to complete Expression
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+NotVisibleField,{log| java.awt.Container},The field Container.log is not visible
+UndefinedMethod,{tm_1014167.tm_1014167| linesappend| java.lang.String[], java.lang.String},The method linesappend(String[]^ String) is undefined for the type tm_1014167
+ParameterMismatch,{processing.core.PApplet| sort| byte[]| int},The method sort(byte[]) in the type PApplet is not applicable for the arguments (int)
+InvalidOperator,{&&| boolean, int},The operator && is undefined for the argument type(s) boolean^ int
+NoFieldOnBaseType,{int| l| length},The primitive type int of l does not have a field length
+ArrayReferenceRequired,{int},The type of the expression must be an array type but it resolved to int
+LocalVariableIsNeverUsed,{convert2},The value of the local variable convert2 is not used
+TypeMismatch,{java.lang.String[]| int},Type mismatch: cannot convert from String[] to int
+TypeMismatch,{int[]| int[][]},Type mismatch: cannot convert from int[] to int[][]
+UnresolvedVariable,{da},da cannot be resolved to a variable
+UnresolvedVariable,{daa},daa cannot be resolved to a variable
+UnresolvedVariable,{data_},data_ cannot be resolved to a variable
+UndefinedField,{le},le cannot be resolved or is not a field
+UnresolvedVariable,{lin},lin cannot be resolved to a variable
+UndefinedType,{lin.length},lin.length cannot be resolved to a type
+UnresolvedVariable,{lline},lline cannot be resolved to a variable
+UnresolvedVariable,{llines},llines cannot be resolved to a variable
+UnresolvedVariable,{lo},lo cannot be resolved to a variable
+UnresolvedVariable,{v},v cannot be resolved to a variable

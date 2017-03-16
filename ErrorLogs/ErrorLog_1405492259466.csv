@@ -1,0 +1,13 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\sketch____, 2014-07-16 15:30:59.466
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingErrorDeleteToken,{;},Syntax error on token ";"^ delete this token
+ParsingErrorInsertTokenAfter,{[| Expression},Syntax error on token "["^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{textAlign| =},Syntax error on token "textAlign"^ = expected after this token
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{]| ArrayAccess},Syntax error^ insert "]" to complete ArrayAccess
+UndefinedMethod,{sketch____.sketch____| data_save| int},The method data_save(int) is undefined for the type sketch____
+TypeMismatch,{void| int},Type mismatch: cannot convert from void to int

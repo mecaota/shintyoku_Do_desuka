@@ -1,0 +1,30 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\tm_1014167, 2014-07-17 01:44:50.317
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UndefinedType,{Strin},Strin cannot be resolved to a type
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingError,{:| ;},Syntax error on token ":"^ ; expected
+ParsingErrorInsertTokenAfter,{]| VariableDeclaratorId},Syntax error on token "]"^ VariableDeclaratorId expected after this token
+ParsingErrorDeleteToken,{float},Syntax error on token "float"^ delete this token
+ParsingErrorDeleteToken,{n},Syntax error on token "n"^ delete this token
+ParsingErrorInvalidToken,{n| Dimensions},Syntax error on token "n"^ invalid Dimensions
+ParsingErrorInvalidToken,{new| Expression},Syntax error on token "new"^ invalid Expression
+ParsingErrorDeleteToken,{plus},Syntax error on token "plus"^ delete this token
+ParsingErrorDeleteToken,{tton},Syntax error on token "tton"^ delete this token
+ParsingErrorReplaceTokens,{Dimensions},Syntax error on tokens^ Dimensions expected instead
+ParsingErrorReplaceTokens,{Type},Syntax error on tokens^ Type expected instead
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{ArrayInitializer| ArrayCreationWithArrayInitializer},Syntax error^ insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{]| ArrayAccess},Syntax error^ insert "]" to complete ArrayAccess
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+TypeMismatch,{int[]| java.lang.String[]},Type mismatch: cannot convert from int[] to String[]
+UnresolvedVariable,{button},button cannot be resolved to a variable
+UndefinedType,{intss},intss cannot be resolved to a type
+UnresolvedVariable,{meeting},meeting cannot be resolved to a variable
+UndefinedType,{s},s cannot be resolved to a type
+UnresolvedVariable,{t},t cannot be resolved to a variable

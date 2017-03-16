@@ -1,0 +1,81 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\sketch____, 2014-07-16 16:59:25.458
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+InvalidUnaryExpression,{},Invalid argument to operation ++/--
+MissingReturnType,{},Return type for the method is missing
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertTokenAfter,{%| Expression},Syntax error on token "%"^ Expression expected after this token
+ParsingError,{)| ;},Syntax error on token ")"^ ; expected
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingErrorInsertTokenAfter,{*| Expression},Syntax error on token "*"^ Expression expected after this token
+ParsingErrorDeleteToken,{+},Syntax error on token "+"^ delete this token
+ParsingError,{++| +},Syntax error on token "++"^ + expected
+ParsingError,{,| )},Syntax error on token "^"^ ) expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingError,{-=| -},Syntax error on token "-="^ - expected
+ParsingErrorInsertTokenAfter,{/| Expression},Syntax error on token "/"^ Expression expected after this token
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorDeleteToken,{;},Syntax error on token ";"^ delete this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorDeleteToken,{=},Syntax error on token "="^ delete this token
+ParsingErrorInsertTokenAfter,{[| Expression},Syntax error on token "["^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{[| ]},Syntax error on token "["^ ] expected after this token
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingErrorInsertTokenAfter,{]| [},Syntax error on token "]"^ [ expected after this token
+ParsingErrorDeleteToken,{d},Syntax error on token "d"^ delete this token
+ParsingErrorDeleteToken,{dead},Syntax error on token "dead"^ delete this token
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorInsertTokenAfter,{int| VariableDeclaratorId},Syntax error on token "int"^ VariableDeclaratorId expected after this token
+ParsingError,{tex| throw},Syntax error on token "tex"^ throw expected
+ParsingErrorDeleteToken,{text},Syntax error on token "text"^ delete this token
+ParsingError,{textA| throw},Syntax error on token "textA"^ throw expected
+ParsingErrorInsertTokenAfter,{textAlign| =},Syntax error on token "textAlign"^ = expected after this token
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingErrorDeleteToken,{width},Syntax error on token "width"^ delete this token
+ParsingErrorDeleteToken,{}},Syntax error on token "}"^ delete this token
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{; ) Statement| BlockStatements},Syntax error^ insert "; ) Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{; ) Statement| ForStatement},Syntax error^ insert "; ) Statement" to complete ForStatement
+ParsingErrorInsertToComplete,{; ; ) Statement| BlockStatements},Syntax error^ insert "; ; ) Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ConstructorDeclaration},Syntax error^ insert ";" to complete ConstructorDeclaration
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| ForUpdate},Syntax error^ insert "AssignmentOperator Expression" to complete ForUpdate
+ParsingErrorInsertToComplete,{]| ArgumentList},Syntax error^ insert "]" to complete ArgumentList
+ParsingErrorInsertToComplete,{]| ArrayAccess},Syntax error^ insert "]" to complete ArrayAccess
+ParsingErrorInsertToComplete,{]| Expression},Syntax error^ insert "]" to complete Expression
+ParsingErrorInsertToComplete,{}| Block},Syntax error^ insert "}" to complete Block
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody
+UndefinedMethod,{sketch____.sketch____| data_save| int},The method data_save(int) is undefined for the type sketch____
+ParameterMismatch,{sketch____.sketch____| dead_updown| int| },The method dead_updown(int) in the type sketch____ is not applicable for the arguments ()
+InvalidOperator,{/| int[], int},The operator / is undefined for the argument type(s) int[]^ int
+InvalidOperator,{<| int[], int},The operator < is undefined for the argument type(s) int[]^ int
+ArrayReferenceRequired,{java.lang.String},The type of the expression must be an array type but it resolved to String
+ArrayReferenceRequired,{int},The type of the expression must be an array type but it resolved to int
+TypeMismatch,{int| int[]},Type mismatch: cannot convert from int to int[]
+TypeMismatch,{int[]| int[][]},Type mismatch: cannot convert from int[] to int[][]
+TypeMismatch,{void| int},Type mismatch: cannot convert from void to int
+UnresolvedVariable,{a},a cannot be resolved to a variable
+UnresolvedVariable,{ata},ata cannot be resolved to a variable
+UnresolvedVariable,{convert},convert cannot be resolved to a variable
+UnresolvedVariable,{ddead},ddead cannot be resolved to a variable
+UnresolvedVariable,{dead_},dead_ cannot be resolved to a variable
+UnresolvedVariable,{lata},lata cannot be resolved to a variable
+UnresolvedVariable,{llines},llines cannot be resolved to a variable
+UnresolvedVariable,{loata},loata cannot be resolved to a variable
+UnresolvedVariable,{logDta},logDta cannot be resolved to a variable
+UnresolvedVariable,{log_llines},log_llines cannot be resolved to a variable
+UnresolvedVariable,{logata},logata cannot be resolved to a variable
+UnresolvedVariable,{logdata},logdata cannot be resolved to a variable
+UnresolvedVariable,{logllines},logllines cannot be resolved to a variable
+UnresolvedVariable,{memory},memory cannot be resolved to a variable
+UnresolvedVariable,{sec},sec cannot be resolved to a variable

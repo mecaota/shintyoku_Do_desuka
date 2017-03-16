@@ -1,0 +1,16 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\tm_1014167, 2014-07-17 09:36:06.945
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorInsertTokenAfter,{[| Expression},Syntax error on token "["^ Expression expected after this token
+ParsingErrorDeleteToken,{]},Syntax error on token "]"^ delete this token
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+UnresolvedVariable,{line},line cannot be resolved to a variable
+UndefinedType,{line.leng},line.leng cannot be resolved to a type
+UndefinedType,{line.length},line.length cannot be resolved to a type
+UnresolvedVariable,{ln},ln cannot be resolved to a variable

@@ -1,0 +1,100 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\sketch____, 2014-07-16 11:29:20.916
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+NonStaticFieldFromStaticInvocation,{d},Cannot make a static reference to the non-static field d
+NonStaticFieldFromStaticInvocation,{m},Cannot make a static reference to the non-static field m
+NonStaticFieldFromStaticInvocation,{y},Cannot make a static reference to the non-static field y
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{,| FormalParameter},Syntax error on token "^"^ FormalParameter expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingError,{-| --},Syntax error on token "-"^ -- expected
+ParsingErrorInsertTokenAfter,{4| [},Syntax error on token "4"^ [ expected after this token
+ParsingError,{;| ,},Syntax error on token ";"^ ^ expected
+ParsingErrorDeleteToken,{;},Syntax error on token ";"^ delete this token
+ParsingErrorDeleteToken,{==},Syntax error on token "=="^ delete this token
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingErrorInsertTokenAfter,{]| [},Syntax error on token "]"^ [ expected after this token
+ParsingErrorInsertTokenAfter,{gat| VariableDeclaratorId},Syntax error on token "gat"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{gat_| VariableDeclaratorId},Syntax error on token "gat_"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{gat_h| VariableDeclaratorId},Syntax error on token "gat_h"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{get_min| VariableDeclaratorId},Syntax error on token "get_min"^ VariableDeclaratorId expected after this token
+ParsingErrorInsertTokenAfter,{int| VariableDeclaratorId},Syntax error on token "int"^ VariableDeclaratorId expected after this token
+ParsingErrorDeleteToken,{l},Syntax error on token "l"^ delete this token
+ParsingErrorInvalidToken,{stat| Modifiers},Syntax error on token "stat"^ invalid Modifiers
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{]| ArrayAccess},Syntax error^ insert "]" to complete ArrayAccess
+ParsingErrorInsertToComplete,{]| Expression},Syntax error^ insert "]" to complete Expression
+ParsingErrorInsertToComplete,{}| BlockStatements},Syntax error^ insert "}" to complete BlockStatements
+NotVisibleField,{y| java.awt.Component},The field Component.y is not visible
+UndefinedMethod,{sketch____.sketch____| Ge| int},The method Ge(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| Get| int},The method Get(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| GetDa| int},The method GetDa(int) is undefined for the type sketch____
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int)
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int)
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int, int[][]},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int[][])
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int[]},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int[])
+ParameterMismatch,{sketch____.sketch____| GetDays| int, int, int| int, int[][]},The method GetDays(int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int[][])
+UndefinedMethod,{sketch____.sketch____| _hour| },The method _hour() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| _minute| },The method _minute() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| _month| },The method _month() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| calender| },The method calender() is undefined for the type sketch____
+ParameterMismatch,{sketch____.sketch____| calender| int| },The method calender(int) in the type sketch____ is not applicable for the arguments ()
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int| },The method calender(int^ int^ int) in the type sketch____ is not applicable for the arguments ()
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int| },The method calender(int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments ()
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int| int},The method calender(int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int)
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int| int, int},The method calender(int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int)
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int| int, int, int},The method calender(int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int)
+UndefinedMethod,{sketch____.sketch____| et_day| },The method et_day() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| g| int},The method g(int) is undefined for the type sketch____
+ParameterMismatch,{processing.core.PApplet| get| | int},The method get() in the type PApplet is not applicable for the arguments (int)
+UndefinedMethod,{sketch____.sketch____| get_day| },The method get_day() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| get_hour| },The method get_hour() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| get_minute| },The method get_minute() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| get_month| },The method get_month() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| montget_h| },The method montget_h() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| montt_h| },The method montt_h() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| secon_d| },The method secon_d() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| seconget_d| },The method seconget_d() is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| time| },The method time() is undefined for the type sketch____
+UnresolvedVariable,{c},c cannot be resolved to a variable
+UnresolvedVariable,{d},d cannot be resolved to a variable
+UnresolvedVariable,{data},data cannot be resolved to a variable
+UnresolvedVariable,{dead},dead cannot be resolved to a variable
+UnresolvedVariable,{dead_sum},dead_sum cannot be resolved to a variable
+UnresolvedVariable,{geget_m},geget_m cannot be resolved to a variable
+UnresolvedVariable,{get_d},get_d cannot be resolved to a variable
+UnresolvedVariable,{get_get_m},get_get_m cannot be resolved to a variable
+UnresolvedVariable,{get_h},get_h cannot be resolved to a variable
+UnresolvedVariable,{get_heigget_ht},get_heigget_ht cannot be resolved to a variable
+UnresolvedVariable,{get_heiggt_ht},get_heiggt_ht cannot be resolved to a variable
+UnresolvedVariable,{get_heigt_ht},get_heigt_ht cannot be resolved to a variable
+UnresolvedVariable,{get_m},get_m cannot be resolved to a variable
+UnresolvedVariable,{get_min},get_min cannot be resolved to a variable
+UnresolvedVariable,{get_yy},get_yy cannot be resolved to a variable
+UnresolvedVariable,{getd},getd cannot be resolved to a variable
+UnresolvedVariable,{getget_m},getget_m cannot be resolved to a variable
+UnresolvedVariable,{getheigt_ht},getheigt_ht cannot be resolved to a variable
+UnresolvedVariable,{gety},gety cannot be resolved to a variable
+UnresolvedVariable,{gey},gey cannot be resolved to a variable
+UnresolvedVariable,{gm},gm cannot be resolved to a variable
+UnresolvedVariable,{gy},gy cannot be resolved to a variable
+UnresolvedVariable,{h},h cannot be resolved to a variable
+UnresolvedVariable,{heigt},heigt cannot be resolved to a variable
+UnresolvedVariable,{heigt_ht},heigt_ht cannot be resolved to a variable
+UnresolvedVariable,{heigtht},heigtht cannot be resolved to a variable
+UnresolvedVariable,{m},m cannot be resolved to a variable
+UnresolvedVariable,{min},min cannot be resolved to a variable
+UnresolvedVariable,{sec},sec cannot be resolved to a variable
+UndefinedType,{voi_d},voi_d cannot be resolved to a type
+UndefinedType,{voiget_d},voiget_d cannot be resolved to a type
+UnresolvedVariable,{wi_h},wi_h cannot be resolved to a variable
+UnresolvedVariable,{widtget_h},widtget_h cannot be resolved to a variable
+UnresolvedVariable,{widthh},widthh cannot be resolved to a variable
+UnresolvedVariable,{wiget_dtget_h},wiget_dtget_h cannot be resolved to a variable
+UnresolvedVariable,{wiget_dth},wiget_dth cannot be resolved to a variable
+UnresolvedVariable,{wiget_h},wiget_h cannot be resolved to a variable
+UnresolvedVariable,{wih},wih cannot be resolved to a variable
+UnresolvedVariable,{wit_dtget_h},wit_dtget_h cannot be resolved to a variable

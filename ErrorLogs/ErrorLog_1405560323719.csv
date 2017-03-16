@@ -1,0 +1,7 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\tm_1014167, 2014-07-17 10:25:23.719
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+MethodVarargsArgumentNeedCast,{java.lang.String[]| java.lang.Object[]| println| java.lang.Object...| processing.core.PApplet| java.lang.Object},The argument of type String[] should explicitly be cast to Object[] for the invocation of the varargs method println(Object...) from type PApplet. It could alternatively be cast to Object for a varargs invocation
+UndefinedMethod,{tm_1014167.tm_1014167| linappend| java.lang.String[], java.lang.String},The method linappend(String[]^ String) is undefined for the type tm_1014167
+UndefinedMethod,{tm_1014167.tm_1014167| logappend| java.lang.String[], java.lang.String},The method logappend(String[]^ String) is undefined for the type tm_1014167

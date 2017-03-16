@@ -1,0 +1,5 @@
+Sketch: C:\Users\鉄朗\Google ドライブ\大学\講義資料\２０１４年度前期\情報表現\進捗、どうですか？\sketch____, 2014-07-16 15:28:26.181
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UndefinedMethod,{sketch____.sketch____| data_save| int},The method data_save(int) is undefined for the type sketch____

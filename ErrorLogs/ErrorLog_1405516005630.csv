@@ -1,0 +1,204 @@
+Sketch: C:\Users\ìSòN\Google ÉhÉâÉCÉu\ëÂäw\çuã`éëóø\ÇQÇOÇPÇSîNìxëOä˙\èÓïÒï\åª\êiíªÅAÇ«Ç§Ç≈Ç∑Ç©ÅH\sketch____, 2014-07-16 22:06:45.627
+Comma in error msg is substituted with ^ symbol
+For separating arguments in error args | symbol is used
+ERROR TYPE, ERROR ARGS, ERROR MSG
+UndefinedType,{ControlEvent},ControlEvent cannot be resolved to a type
+UndefinedType,{ControlP5},ControlP5 cannot be resolved to a type
+InvalidUnaryExpression,{},Invalid argument to operation ++/--
+InvalidCharacterConstant,{},Invalid character constant
+MissingReturnType,{},Return type for the method is missing
+UnterminatedString,{},String literal is not properly closed by a double-quote
+ParsingErrorInsertTokenAfter,{%| Expression},Syntax error on token "%"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{&| Expression},Syntax error on token "&"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{&&| Expression},Syntax error on token "&&"^ Expression expected after this token
+ParsingError,{&&| assert},Syntax error on token "&&"^ assert expected
+ParsingErrorInsertTokenAfter,{(| Expression},Syntax error on token "("^ Expression expected after this token
+ParsingError,{)| ;},Syntax error on token ")"^ ; expected
+ParsingErrorInsertTokenAfter,{)| AssignmentOperator},Syntax error on token ")"^ AssignmentOperator expected after this token
+ParsingErrorInsertTokenAfter,{)| Statement},Syntax error on token ")"^ Statement expected after this token
+ParsingErrorDeleteToken,{)},Syntax error on token ")"^ delete this token
+ParsingErrorInsertTokenAfter,{)| {},Syntax error on token ")"^ { expected after this token
+ParsingErrorInsertTokenAfter,{*| Expression},Syntax error on token "*"^ Expression expected after this token
+ParsingError,{+| ++},Syntax error on token "+"^ ++ expected
+ParsingErrorDeleteToken,{+},Syntax error on token "+"^ delete this token
+ParsingErrorInvalidToken,{+| AssignmentOperator},Syntax error on token "+"^ invalid AssignmentOperator
+ParsingError,{++| +},Syntax error on token "++"^ + expected
+ParsingErrorInvalidToken,{++| AssignmentOperator},Syntax error on token "++"^ invalid AssignmentOperator
+ParsingError,{,| (},Syntax error on token "^"^ ( expected
+ParsingError,{,| )},Syntax error on token "^"^ ) expected
+ParsingErrorInsertTokenAfter,{,| Expression},Syntax error on token "^"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{,| FormalParameter},Syntax error on token "^"^ FormalParameter expected after this token
+ParsingErrorDeleteToken,{,},Syntax error on token "^"^ delete this token
+ParsingErrorInvalidToken,{-| AssignmentOperator},Syntax error on token "-"^ invalid AssignmentOperator
+ParsingError,{-=| -},Syntax error on token "-="^ - expected
+ParsingError,{-=| --},Syntax error on token "-="^ -- expected
+ParsingErrorInsertTokenAfter,{/| Expression},Syntax error on token "/"^ Expression expected after this token
+ParsingErrorDeleteToken,{/},Syntax error on token "/"^ delete this token
+ParsingErrorDeleteToken,{0},Syntax error on token "0"^ delete this token
+ParsingErrorInsertTokenAfter,{;| Expression},Syntax error on token ";"^ Expression expected after this token
+ParsingError,{;| [},Syntax error on token ";"^ [ expected
+ParsingErrorDeleteToken,{;},Syntax error on token ";"^ delete this token
+ParsingErrorInvalidToken,{;| AssignmentOperator},Syntax error on token ";"^ invalid AssignmentOperator
+ParsingErrorInsertTokenAfter,{<| Expression},Syntax error on token "<"^ Expression expected after this token
+ParsingError,{=| <=},Syntax error on token "="^ <= expected
+ParsingErrorInsertTokenAfter,{=| Expression},Syntax error on token "="^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{=| VariableInitializer},Syntax error on token "="^ VariableInitializer expected after this token
+ParsingErrorDeleteToken,{=},Syntax error on token "="^ delete this token
+ParsingErrorInsertTokenAfter,{==| Expression},Syntax error on token "=="^ Expression expected after this token
+ParsingErrorInvalidToken,{==| AssignmentOperator},Syntax error on token "=="^ invalid AssignmentOperator
+ParsingErrorInsertTokenAfter,{>| Expression},Syntax error on token ">"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{CENTER| VariableDeclaratorId},Syntax error on token "CENTER"^ VariableDeclaratorId expected after this token
+ParsingErrorDeleteToken,{Invalid Character},Syntax error on token "Invalid Character"^ delete this token
+ParsingError,{[| ;},Syntax error on token "["^ ; expected
+ParsingErrorInsertTokenAfter,{[| Expression},Syntax error on token "["^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{[| ]},Syntax error on token "["^ ] expected after this token
+ParsingErrorDeleteToken,{[},Syntax error on token "["^ delete this token
+ParsingError,{]| ++},Syntax error on token "]"^ ++ expected
+ParsingErrorInsertTokenAfter,{]| AssignmentOperator},Syntax error on token "]"^ AssignmentOperator expected after this token
+ParsingError,{]| [},Syntax error on token "]"^ [ expected
+ParsingErrorInsertTokenAfter,{]| [},Syntax error on token "]"^ [ expected after this token
+ParsingErrorDeleteToken,{]},Syntax error on token "]"^ delete this token
+ParsingErrorInvalidToken,{]| Expression},Syntax error on token "]"^ invalid Expression
+ParsingErrorDeleteToken,{d},Syntax error on token "d"^ delete this token
+ParsingErrorInsertTokenAfter,{da| )},Syntax error on token "da"^ ) expected after this token
+ParsingErrorDeleteToken,{data},Syntax error on token "data"^ delete this token
+ParsingErrorDeleteToken,{dead},Syntax error on token "dead"^ delete this token
+ParsingErrorInsertTokenAfter,{else| EmptyStatement},Syntax error on token "else"^ EmptyStatement expected after this token
+ParsingErrorDeleteToken,{else},Syntax error on token "else"^ delete this token
+ParsingError,{else| {},Syntax error on token "else"^ { expected
+ParsingErrorInsertTokenAfter,{fill| =},Syntax error on token "fill"^ = expected after this token
+ParsingErrorDeleteToken,{fill},Syntax error on token "fill"^ delete this token
+ParsingErrorDeleteToken,{h},Syntax error on token "h"^ delete this token
+ParsingError,{if| (},Syntax error on token "if"^ ( expected
+ParsingErrorInsertTokenAfter,{if| (},Syntax error on token "if"^ ( expected after this token
+ParsingErrorDeleteToken,{if},Syntax error on token "if"^ delete this token
+ParsingErrorInvalidToken,{if| EmptyStatement},Syntax error on token "if"^ invalid EmptyStatement
+ParsingErrorInsertTokenAfter,{int| VariableDeclaratorId},Syntax error on token "int"^ VariableDeclaratorId expected after this token
+ParsingErrorDeleteToken,{int},Syntax error on token "int"^ delete this token
+ParsingError,{int| new},Syntax error on token "int"^ new expected
+ParsingErrorDeleteToken,{log_lines},Syntax error on token "log_lines"^ delete this token
+ParsingErrorDeleteToken,{min},Syntax error on token "min"^ delete this token
+ParsingError,{tex| throw},Syntax error on token "tex"^ throw expected
+ParsingErrorDeleteToken,{text},Syntax error on token "text"^ delete this token
+ParsingError,{textA| throw},Syntax error on token "textA"^ throw expected
+ParsingErrorInsertTokenAfter,{textAlign| =},Syntax error on token "textAlign"^ = expected after this token
+ParsingErrorDeleteToken,{void},Syntax error on token "void"^ delete this token
+ParsingErrorDeleteToken,{width},Syntax error on token "width"^ delete this token
+ParsingErrorDeleteToken,{y},Syntax error on token "y"^ delete this token
+ParsingErrorInsertTokenAfter,{{| Expression},Syntax error on token "{"^ Expression expected after this token
+ParsingErrorInsertTokenAfter,{||| Expression},Syntax error on token "||"^ Expression expected after this token
+ParsingErrorDeleteToken,{}},Syntax error on token "}"^ delete this token
+ParsingErrorReplaceTokens,{(},Syntax error on tokens^ ( expected instead
+ParsingErrorDeleteTokens,{},Syntax error on tokens^ delete these tokens
+ParsingErrorMisplacedConstruct,{},Syntax error on token(s)^ misplaced construct(s)
+ParsingErrorInsertToComplete,{) Statement| BlockStatements},Syntax error^ insert ") Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{) Statement| IfStatement},Syntax error^ insert ") Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{)| ConstructorDeclaration},Syntax error^ insert ")" to complete ConstructorDeclaration
+ParsingErrorInsertToComplete,{)| Expression},Syntax error^ insert ")" to complete Expression
+ParsingErrorInsertToComplete,{)| MethodInvocation},Syntax error^ insert ")" to complete MethodInvocation
+ParsingErrorInsertToComplete,{: Expression| ArgumentList},Syntax error^ insert ": Expression" to complete ArgumentList
+ParsingErrorInsertToComplete,{; ) Statement| BlockStatements},Syntax error^ insert "; ) Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{; ) Statement| ForStatement},Syntax error^ insert "; ) Statement" to complete ForStatement
+ParsingErrorInsertToComplete,{; ; ) Statement| BlockStatements},Syntax error^ insert "; ; ) Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{; ; ) Statement| ForStatement},Syntax error^ insert "; ; ) Statement" to complete ForStatement
+ParsingErrorInsertToComplete,{;| BlockStatements},Syntax error^ insert ";" to complete BlockStatements
+ParsingErrorInsertToComplete,{;| ConstructorDeclaration},Syntax error^ insert ";" to complete ConstructorDeclaration
+ParsingErrorInsertToComplete,{;| FieldDeclaration},Syntax error^ insert ";" to complete FieldDeclaration
+ParsingErrorInsertToComplete,{;| Statement},Syntax error^ insert ";" to complete Statement
+ParsingErrorInsertToComplete,{ArrayInitializer| ArrayCreationWithArrayInitializer},Syntax error^ insert "ArrayInitializer" to complete ArrayCreationWithArrayInitializer
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Assignment},Syntax error^ insert "AssignmentOperator Expression" to complete Assignment
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| Expression},Syntax error^ insert "AssignmentOperator Expression" to complete Expression
+ParsingErrorInsertToComplete,{AssignmentOperator Expression| ForUpdate},Syntax error^ insert "AssignmentOperator Expression" to complete ForUpdate
+ParsingErrorInsertToComplete,{Type VariableDeclaratorId| FormalParameter},Syntax error^ insert "Type VariableDeclaratorId" to complete FormalParameter
+ParsingErrorInsertToComplete,{]| ArgumentList},Syntax error^ insert "]" to complete ArgumentList
+ParsingErrorInsertToComplete,{]| ArrayAccess},Syntax error^ insert "]" to complete ArrayAccess
+ParsingErrorInsertToComplete,{]| Expression},Syntax error^ insert "]" to complete Expression
+ParsingErrorInsertToComplete,{else Statement| BlockStatements},Syntax error^ insert "else Statement" to complete BlockStatements
+ParsingErrorInsertToComplete,{else Statement| IfStatement},Syntax error^ insert "else Statement" to complete IfStatement
+ParsingErrorInsertToComplete,{}| Block},Syntax error^ insert "}" to complete Block
+ParsingErrorInsertToComplete,{}| ClassBody},Syntax error^ insert "}" to complete ClassBody
+ParsingErrorInsertToComplete,{}| MethodBody},Syntax error^ insert "}" to complete MethodBody
+ParsingErrorInsertToComplete,{}| Statement},Syntax error^ insert "}" to complete Statement
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int, int| int, int},The method calender(int^ int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int)
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int, int| int, int, int},The method calender(int^ int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int)
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int, int| int, int, int, int},The method calender(int^ int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int^ int)
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int, int| int, int, int, int, int},The method calender(int^ int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int^ int^ int)
+ParameterMismatch,{sketch____.sketch____| calender| int, int, int, int, int, int| int, int, int, int[][]},The method calender(int^ int^ int^ int^ int^ int) in the type sketch____ is not applicable for the arguments (int^ int^ int^ int[][])
+UndefinedMethod,{sketch____.sketch____| data_save| int},The method data_save(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| data_savecalender| int, int, int, int, int, int},The method data_savecalender(int^ int^ int^ int^ int^ int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| datacalender| int, int, int, int, int},The method datacalender(int^ int^ int^ int^ int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| datacalender| int, int, int, int, int, int},The method datacalender(int^ int^ int^ int^ int^ int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dcalender| int, int, int, int, int},The method dcalender(int^ int^ int^ int^ int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_| int},The method dead_(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_r| int},The method dead_r(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_re| int},The method dead_re(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_rialti| int},The method dead_rialti(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_rialtime| int},The method dead_rialtime(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_rltime| int},The method dead_rltime(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_up| int},The method dead_up(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_upd| int},The method dead_upd(int) is undefined for the type sketch____
+UndefinedMethod,{sketch____.sketch____| dead_updo| int},The method dead_updo(int) is undefined for the type sketch____
+ParameterMismatch,{sketch____.sketch____| dead_updown| int| },The method dead_updown(int) in the type sketch____ is not applicable for the arguments ()
+ParameterMismatch,{sketch____.sketch____| dead_updown| int| int, int},The method dead_updown(int) in the type sketch____ is not applicable for the arguments (int^ int)
+ParameterMismatch,{sketch____.sketch____| dead_updown| int, int| int},The method dead_updown(int^ int) in the type sketch____ is not applicable for the arguments (int)
+UndefinedMethod,{sketch____.sketch____| dead_upn| int},The method dead_upn(int) is undefined for the type sketch____
+ParameterMismatch,{processing.core.PApplet| nf| int[], int| int[][], int},The method nf(int[]^ int) in the type PApplet is not applicable for the arguments (int[][]^ int)
+UndefinedMethod,{sketch____.sketch____| setColor| int},The method setColor(int) is undefined for the type sketch____
+ParameterMismatch,{processing.core.PApplet| textSize| float| },The method textSize(float) in the type PApplet is not applicable for the arguments ()
+InvalidOperator,{&&| boolean, int},The operator && is undefined for the argument type(s) boolean^ int
+InvalidOperator,{/| int[], int},The operator / is undefined for the argument type(s) int[]^ int
+InvalidOperator,{<| int[], int},The operator < is undefined for the argument type(s) int[]^ int
+InvalidOperator,{||| boolean, int},The operator || is undefined for the argument type(s) boolean^ int
+ArrayReferenceRequired,{java.lang.String},The type of the expression must be an array type but it resolved to String
+ArrayReferenceRequired,{int},The type of the expression must be an array type but it resolved to int
+TypeMismatch,{float| int},Type mismatch: cannot convert from float to int
+TypeMismatch,{int| int[]},Type mismatch: cannot convert from int to int[]
+TypeMismatch,{int[]| int[][]},Type mismatch: cannot convert from int[] to int[][]
+TypeMismatch,{void| int},Type mismatch: cannot convert from void to int
+UnresolvedVariable,{_savei},_savei cannot be resolved to a variable
+UnresolvedVariable,{_savi},_savi cannot be resolved to a variable
+UnresolvedVariable,{a},a cannot be resolved to a variable
+UnresolvedVariable,{ata},ata cannot be resolved to a variable
+UnresolvedVariable,{category},category cannot be resolved to a variable
+UnresolvedVariable,{convert},convert cannot be resolved to a variable
+UndefinedName,{cp5},cp5 cannot be resolved
+UnresolvedVariable,{cp5},cp5 cannot be resolved to a variable
+UndefinedType,{da},da cannot be resolved to a type
+UnresolvedVariable,{da},da cannot be resolved to a variable
+UndefinedType,{data},data cannot be resolved to a type
+UnresolvedVariable,{data},data cannot be resolved to a variable
+UndefinedType,{data.length},data.length cannot be resolved to a type
+UnresolvedVariable,{data_},data_ cannot be resolved to a variable
+UnresolvedVariable,{data_s},data_s cannot be resolved to a variable
+UndefinedType,{data_sa},data_sa cannot be resolved to a type
+UnresolvedVariable,{data_sa},data_sa cannot be resolved to a variable
+UnresolvedVariable,{data_sav},data_sav cannot be resolved to a variable
+UndefinedType,{data_save},data_save cannot be resolved to a type
+UnresolvedVariable,{datae},datae cannot be resolved to a variable
+UnresolvedVariable,{datasave},datasave cannot be resolved to a variable
+UnresolvedVariable,{ddata_save},ddata_save cannot be resolved to a variable
+UnresolvedVariable,{ddead},ddead cannot be resolved to a variable
+UnresolvedVariable,{de_save},de_save cannot be resolved to a variable
+UnresolvedVariable,{dea},dea cannot be resolved to a variable
+UnresolvedVariable,{dead},dead cannot be resolved to a variable
+UnresolvedVariable,{dead_},dead_ cannot be resolved to a variable
+UnresolvedVariable,{dead_sum},dead_sum cannot be resolved to a variable
+UnresolvedVariable,{i},i cannot be resolved to a variable
+UnresolvedVariable,{lata},lata cannot be resolved to a variable
+UnresolvedVariable,{llines},llines cannot be resolved to a variable
+UndefinedType,{llines.length},llines.length cannot be resolved to a type
+UnresolvedVariable,{loata},loata cannot be resolved to a variable
+UndefinedType,{log.length},log.length cannot be resolved to a type
+UnresolvedVariable,{logDta},logDta cannot be resolved to a variable
+UnresolvedVariable,{log_llines},log_llines cannot be resolved to a variable
+UnresolvedVariable,{logata},logata cannot be resolved to a variable
+UnresolvedVariable,{logdata},logdata cannot be resolved to a variable
+UnresolvedVariable,{loglines},loglines cannot be resolved to a variable
+UndefinedType,{loglines.length},loglines.length cannot be resolved to a type
+UnresolvedVariable,{logllines},logllines cannot be resolved to a variable
+UnresolvedVariable,{memory},memory cannot be resolved to a variable
+UnresolvedVariable,{mi},mi cannot be resolved to a variable
+UnresolvedVariable,{mous},mous cannot be resolved to a variable
+UnresolvedVariable,{save},save cannot be resolved to a variable
+UnresolvedVariable,{sec},sec cannot be resolved to a variable
+UnresolvedVariable,{ydat},ydat cannot be resolved to a variable
